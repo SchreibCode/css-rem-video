@@ -1,0 +1,30 @@
+body {
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    padding: 4rem;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+section {
+    display: flex;
+    padding: 4rem;
+    gap: 4rem;
+}
+
+@media (max-width: 48rem) {
+    section {
+        flex-direction: column;
+    }
+}

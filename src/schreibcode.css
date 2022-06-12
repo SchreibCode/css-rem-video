@@ -31,7 +31,6 @@
 
 html {
     box-sizing: border-box;
-    font-size: 16px;
     font-family: var(--font-family);
 }
 
@@ -82,7 +81,7 @@ body {
 
 .header-video h1 {
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .header-video h2 {

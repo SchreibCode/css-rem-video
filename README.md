@@ -1,10 +1,10 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="./img/css-rem.jpg" width="450" alt="Youtube Thumbnail"/>
 
 # Thema
 
-- In diesem Repository findest du den Code zum Video: "Videotitel".
+- In diesem Repository findest du den Code zum Video: "Warum ich nur noch Rem benutze".
 - Falls du das Video noch nicht gesehen hast kannst du es hier: 
-[Link zum Video](https://www.youtube.com) anschauen.
+[Link zum Video](https://youtu.be/RXj6oxBjpBU) anschauen.
 
 ## Wie kriege ich den Code?
 
